@@ -1,6 +1,3 @@
-Claro! Aqui está o arquivo `README.md` para o seu projeto no GitHub:
-
----
 
 # Bloqueio de IPs Maliciosos com PowerShell
 
